@@ -1,0 +1,631 @@
+.bg-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://fondosmil.com/fondo/26832.jpg");
+    background-image: url("https://fondosmil.com/fondo/26809.jpg");
+    background-image: url("https://fondosmil.com/fondo/26786.jpg");
+    background-image: url("https://images6.alphacoders.com/410/410481.jpg");
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+  }
+  .bg-image.fade {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+
+    body{
+        padding: auto;
+    }  
+  
+  .bg-image.fade.show {
+    opacity: 1;
+  }
+  
+.container{
+display: flex;
+justify-content: center;
+font-family: 'Times New Roman', Times, serif;
+color: white;
+font-size: 40px;
+}
+
+
+.orna1{
+    width: 1300px;
+    height: 600px;
+}
+
+.orna2{
+    width: 1300px;
+    height: 600px;
+}
+
+.orna3{
+    width: 1300px;
+    height: 600px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+
+    text-decoration: solid;
+    color: white !important; 
+    font-size: 60px;
+}
+
+
+.somos  {
+    justify-content: center;
+}
+.log0{
+    display: flex;
+    justify-content: center;
+    width: 550px;
+    position: relative;
+    left: 660px;
+    background-color: black;
+}
+    
+    .caja1{
+
+        width: 287px;
+        height: 279px;
+        background-color: #C5E1A5;
+        border-radius: 20px;
+        border-color: black;
+        border-style: double;
+        position: relative;
+        left: 290px;
+        bottom: -52px;
+        transition: all 0.3s ease;
+
+    }
+    .caja1:hover{
+        transform: scale(1.1);
+    }
+
+
+    .caja1 h2{
+
+        font-family: Honey;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .caja1 p{
+
+        font-family: Please write me a song;
+        font-size: 17px;
+        font-weight: bold;
+        text-align: center;
+        
+    }
+
+
+
+    .caja2{
+        width: 286px;
+        height: 278px;
+        background-color: #C5E1A5;
+        border-radius: 20px;
+        border-color: black;
+        border-style: double;
+        position: relative;
+        left: 620px;
+        bottom: 228px;
+        transition: all 0.3s ease;
+    }
+
+    .caja2:hover{
+        transform: scale(1.1);
+    }
+
+
+    .caja2 h2{
+
+        font-family: Honey;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .caja2 p{
+
+        font-family: Please write me a song;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        
+    }
+
+    .caja3{
+        width: 286px;
+        height: 277px;
+        background-color: #C5E1A5;
+        border-radius: 20px;
+        border-color: black;
+        border-style: double;
+        position: relative;
+        left: 950px;
+        bottom: 507px;
+        transition: all 0.3s ease;
+    }
+    .caja3:hover{
+        transform: scale(1.1);
+    }
+
+    
+    .caja3 h2{
+
+        font-family: Honey;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .caja3 p{
+
+        font-family: Please write me a song;
+        font-size: 17px;
+        font-weight: bold;
+        text-align: center;
+        
+    }
+    .Valores{
+        width: 286px;
+        height: 280px;
+        background-color: #C5E1A5;
+        border-radius: 20px;
+        border-color: black;
+        border-style: double;
+        position: relative;
+        left: 1280px;
+        bottom: 788px;
+        transition: all 0.3s ease;
+    }
+    .Valores:hover{
+        transform: scale(1.1);
+    }
+
+
+    .Valores h2{
+
+        font-family: Honey;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    
+    .l1{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18px;
+        font-weight: bolder;
+        text-align: justify;
+    }
+
+    .l2{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18px;
+        font-weight: bolder;
+        text-align: justify;
+    }
+
+    .l3{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18px;
+        font-weight: bolder;
+        text-align: justify;
+    }
+
+.entrada{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: white;
+}
+
+.containerd{
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-weight: bold;
+    font-size: 35px;
+    justify-content: center;
+    color: white;
+}
+
+.ornad{
+    width: 295px;
+    height: 277px;
+    background-color: #C5E1A5;
+    border-radius: 20px;
+    border-color: black;
+    border-style: double;
+    position: relative;
+    font-family: Please write me a song;    
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    left: 510px;
+    transition: all 0.3s ease;
+}
+.ornad:hover{
+    transform: scale(1.1);
+}
+
+
+.medid{
+    width: 290px;
+    height: 277px;
+    background-color: #C5E1A5;
+    border-radius: 20px;
+    border-color: black;
+    border-style: double;
+    position: relative;
+    font-family: Please write me a song;    
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    left: 1110px; 
+    bottom: 277px;
+    transition: all 0.3s ease;
+}
+.medid:hover{
+    transform: scale(1.1);
+}
+
+.catalogo1{
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-weight: bold;
+    font-size: 35px;
+    justify-content: center;
+    color: white;
+}
+
+.card1{
+   position: relative;
+   left: 50px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: large;
+   background-color: #C5E1A5;
+   border-radius: 2px;
+   text-align: center;
+   transition: all 0.3s ease;
+}
+
+.card1:hover{
+    transform: scale(1.1);
+}
+
+.card2{
+    position: relative;
+    left: 550px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: #C5E1A5;
+    border-radius: 2px;
+    text-align: center;
+    bottom: 532px;
+    transition: all 0.3s ease;
+ }
+ .card2:hover{
+    transform: scale(1.1);
+}
+
+ .card3{
+    position: relative;
+    left: 1050px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: #C5E1A5;
+    border-radius: 2px;
+    text-align: center;
+    bottom: 1064px;
+    transition: all 0.3s ease;
+ }
+ .card3:hover{
+    transform: scale(1.1);
+}
+
+ .card4{
+    position: relative;
+    left: 1570px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: #C5E1A5;
+    border-radius: 2px;
+    text-align: center;
+    bottom: 1600px;
+    transition: all 0.3s ease;
+ }
+ .card4:hover{
+    transform: scale(1.1);
+}
+ 
+ .quienes{
+    color: white;
+ }
+
+
+ #Servicios h1{
+    font-size: 50px;
+    font-family: Honey ;
+    position: relative;
+    bottom: -28px;
+    left: 20px;
+    color: white;
+ }
+
+ .container {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     align-items: center;
+ }
+
+ .box {
+     position: relative;
+     width: 350px;
+     height: 350px;
+     margin-bottom: 50px;
+     background-color: #f1f1f1;
+     overflow: hidden;
+     left: 540px;
+     bottom: -74px;
+
+ }
+
+ .box2 {
+     position: relative;
+     width: 350px;
+     height: 350px;
+     margin-bottom: 50px;
+     background-color: #f1f1f1;
+     overflow: hidden;
+     left: 540px;
+     bottom: -47px;
+     
+ }
+
+ .box3 {
+     position: relative;
+     width: 350px;
+     height: 350px;
+     margin-bottom: 50px;
+     background-color: #f1f1f1;
+     overflow: hidden;
+     left: 1050px;
+     bottom: 727px;
+     
+ }
+
+ .box4 {
+     position: relative;
+     width: 350px;
+     height: 350px;
+     margin-bottom: 50px;
+     background-color: #f1f1f1;
+     overflow: hidden;
+     left: 1050px;
+     bottom: 757px;
+     
+ }
+
+ .box img {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     transition: transform 0.3s ease-in-out;
+ }
+
+ .box2 img {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     transition: transform 0.3s ease-in-out;
+ }
+
+ .box3 img {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     transition: transform 0.3s ease-in-out;
+ }
+ 
+ .box4 img {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     transition: transform 0.3s ease-in-out;
+ }
+
+ .box:hover img {
+     transform: scale(1.1);
+ }
+
+ .box2:hover img {
+     transform: scale(1.1);
+ }
+
+ .box3:hover img {
+     transform: scale(1.1);
+ }
+
+ .box4:hover img {
+     transform: scale(1.1);
+ }
+
+ .box .text {
+     position: absolute;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background-color: rgba(0, 0, 0, 0.5);
+     color: #fff;
+     padding: 20px;
+     opacity: 0;
+     transition: opacity 0.3s ease-in-out;
+     font-family: Please write me a song;
+     font-size: 20px;
+ }
+
+ .box2 .text {
+     position: absolute;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background-color: rgba(0, 0, 0, 0.5);
+     color: #fff;
+     padding: 20px;
+     opacity: 0;
+     transition: opacity 0.3s ease-in-out;
+     font-family: Please write me a song;
+     font-size: 20px;
+ }
+
+ .box3 .text {
+     position: absolute;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background-color: rgba(0, 0, 0, 0.5);
+     color: #fff;
+     padding: 20px;
+     opacity: 0;
+     transition: opacity 0.3s ease-in-out;
+     font-family: Please write me a song;
+     font-size: 20px;
+ }
+
+ .box4 .text {
+     position: absolute;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background-color: rgba(0, 0, 0, 0.5);
+     color: #fff;
+     padding: 20px;
+     opacity: 0;
+     transition: opacity 0.3s ease-in-out;
+     font-family: Please write me a song;
+     font-size: 20px;
+ }
+
+
+ .box:hover .text {
+     opacity: 1;
+ }
+
+ .box2:hover .text {
+     opacity: 1;
+ }
+
+ .box3:hover .text {
+     opacity: 1;
+ }
+
+ .box4:hover .text {
+     opacity: 1;
+ }
+
+ .box .text h3 {
+     margin-top: 0;
+ }
+
+ .box2 .text h3 {
+     margin-top: 0;
+ }
+
+ .box3 .text h3 {
+     margin-top: 0;
+ }
+
+ .box4 .text h3 {
+     margin-top: 0;
+ }
+
+
+.anuncio1{
+    width: 600px;
+    height: 200px;
+    position: relative;
+    bottom: 470px;
+    left: 710px;
+}
+
+.anuncio2{
+    width: auto;
+    height: auto;
+    position: relative;
+    bottom: 720px;
+    left: 580px;
+}
+
+.anuncio3{
+    width: 2000px;
+    height: 300px;
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-collapse {
+        background-color: #f8f9fa;
+        padding-top: 10px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .log0 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 150px;
+    }
+}
+@media screen and (max-width: 1199px) {
+    .caja1,
+    .caja2,
+    .caja3,
+    .Valores {
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .anuncio1 {
+        display: none;
+    }
+}
+@media screen and (max-width: 575px) {
+    .ornad,
+    .medid {
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .card1,
+    .card2,
+    .card3,
+    .card4 {
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .anuncio2 {
+        display: none;
+    }
+}
+@media screen and (max-width: 767px) {
+    #Servicios .box,
+    #Servicios .box2,
+    #Servicios .box3,
+    #Servicios .box4 {
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 767px) {
+    footer .anuncio3 {
+        display: none;
+    }
+}
